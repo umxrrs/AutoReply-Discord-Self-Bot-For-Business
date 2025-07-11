@@ -1,3 +1,5 @@
+**Will keep updating this, its beta version right now**
+
 # Discord Selfbot Autoreply
 ---
 
